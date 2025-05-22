@@ -1,7 +1,7 @@
 x=99
 y=5
 
-q-=x%y
+q=x%y
 print(q)
 
 
